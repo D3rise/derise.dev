@@ -1,3 +1,4 @@
-[submodule "college-new-year-tree"]
-	path = college-new-year-tree
+[submodule "ny-tree"]
+	path = ny-tree
 	url = https://github.com/D3rise/college-new-year-tree
+	branch = master
